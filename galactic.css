@@ -1,0 +1,42 @@
+header{
+    background-image: url("https://img.freepik.com/premium-photo/colorful-night-sky-space-nebula-and-galaxies-in-space-astronomy-concept-background_303714-710.jpg");
+    height: 100px;
+}
+nav{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-item{
+    color: rgb(167, 164, 161);
+}
+.hole{
+    width: 500px;
+    height: 600px;
+}
+
+h1{
+    text-align: center;
+}
+p{
+    background-color: wheat;
+    color: blue;
+}
+.jin{
+    width: 350px;
+    height: 269px;
+    display: flex;
+}
+.center-img{
+    display: flex;
+    justify-content: space-around;
+}
+div{
+    text-align: center;
+}
+.ggg{
+    padding-top: 7px;
+}
+
+
